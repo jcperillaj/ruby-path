@@ -34,3 +34,11 @@ p 5.to_s
 p 5.+ 5
 p 5.+(5)
 p 5.**(3)
+
+# Integers and floats have certain utility methods
+
+pi = -3.14159
+p pi.round(4)
+p pi.ceil
+p pi.floor
+p pi.abs
