@@ -1,0 +1,4 @@
+p 1.odd?
+p 1.even?
+p 0.odd?
+p 0.even?
